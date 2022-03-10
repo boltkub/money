@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Money.in.th ความรู้เรื่องเงิน`,
     author: {
       name: `Jirawat Panketkorn`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Thailand building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
